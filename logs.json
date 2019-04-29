@@ -1,0 +1,147 @@
+{
+  "source record": {
+    "_id": "jkj238238jdsnfsj23",
+    "email": "foo@bar.com",
+    "firstName": "John",
+    "lastName": "Smith",
+    "address": "123 Street St",
+    "entryDate": "2014-05-07T17:30:20+00:00"
+  }
+}
+{
+  "output record": {
+    "_id": "jkj238238jdsnfsj23",
+    "email": "coo@bar.com",
+    "firstName": "Ted",
+    "lastName": "Jones",
+    "address": "456 Neat St",
+    "entryDate": "2014-05-07T17:32:20+00:00"
+  }
+}
+Individual Field Changes
+foo@bar.com => coo@bar.com 
+John => Ted 
+Smith => Jones 
+123 Street St => 456 Neat St 
+2014-05-07T17:30:20+00:00 => 2014-05-07T17:32:20+00:00 
+{
+  "source record": {
+    "_id": "jkj238238jdsnfsj23",
+    "email": "foo@bar.com",
+    "firstName": "John",
+    "lastName": "Smith",
+    "address": "123 Street St",
+    "entryDate": "2014-05-07T17:30:20+00:00"
+  }
+}
+{
+  "output record": {
+    "_id": "jkj238238jdsnfsj23",
+    "email": "bill@bar.com",
+    "firstName": "John",
+    "lastName": "Smith",
+    "address": "888 Mayberry St",
+    "entryDate": "2014-05-07T17:33:20+00:00"
+  }
+}
+Individual Field Changes
+foo@bar.com => bill@bar.com 
+123 Street St => 888 Mayberry St 
+2014-05-07T17:30:20+00:00 => 2014-05-07T17:33:20+00:00 
+{
+  "source record": {
+    "_id": "jkj238238jdsnfsj23",
+    "email": "foo@bar.com",
+    "firstName": "John",
+    "lastName": "Smith",
+    "address": "123 Street St",
+    "entryDate": "2014-05-07T17:30:20+00:00"
+  }
+}
+{
+  "output record": {
+    "_id": "sel045238jdsnfsj23",
+    "email": "foo@bar.com",
+    "firstName": "John",
+    "lastName": "Smith",
+    "address": "123 Street St",
+    "entryDate": "2014-05-07T17:32:20+00:00"
+  }
+}
+Individual Field Changes
+jkj238238jdsnfsj23 => sel045238jdsnfsj23 
+2014-05-07T17:30:20+00:00 => 2014-05-07T17:32:20+00:00 
+{
+  "source record": {
+    "_id": "jkj238238jdsnfsj23",
+    "email": "foo@bar.com",
+    "firstName": "John",
+    "lastName": "Smith",
+    "address": "123 Street St",
+    "entryDate": "2014-05-07T17:30:20+00:00"
+  }
+}
+{
+  "output record": {
+    "_id": "qest38238jdsnfsj23",
+    "email": "foo@bar.com",
+    "firstName": "John",
+    "lastName": "Smith",
+    "address": "123 Street St",
+    "entryDate": "2014-05-07T17:32:20+00:00"
+  }
+}
+Individual Field Changes
+jkj238238jdsnfsj23 => qest38238jdsnfsj23 
+2014-05-07T17:30:20+00:00 => 2014-05-07T17:32:20+00:00 
+{
+  "source record": {
+    "_id": "jkj238238jdsnfsj23",
+    "email": "foo@bar.com",
+    "firstName": "John",
+    "lastName": "Smith",
+    "address": "123 Street St",
+    "entryDate": "2014-05-07T17:30:20+00:00"
+  }
+}
+{
+  "output record": {
+    "_id": "wuj08238jdsnfsj23",
+    "email": "foo@bar.com",
+    "firstName": "Micah",
+    "lastName": "Valmer",
+    "address": "123 Street St",
+    "entryDate": "2014-05-07T17:33:20+00:00"
+  }
+}
+Individual Field Changes
+jkj238238jdsnfsj23 => wuj08238jdsnfsj23 
+John => Micah 
+Smith => Valmer 
+2014-05-07T17:30:20+00:00 => 2014-05-07T17:33:20+00:00 
+{
+  "source record": {
+    "_id": "edu45238jdsnfsj23",
+    "email": "mae@bar.com",
+    "firstName": "Ted",
+    "lastName": "Masters",
+    "address": "44 North Hampton St",
+    "entryDate": "2014-05-07T17:31:20+00:00"
+  }
+}
+{
+  "output record": {
+    "_id": "belr28238jdsnfsj23",
+    "email": "mae@bar.com",
+    "firstName": "Tallulah",
+    "lastName": "Smith",
+    "address": "123 Water St",
+    "entryDate": "2014-05-07T17:33:20+00:00"
+  }
+}
+Individual Field Changes
+edu45238jdsnfsj23 => belr28238jdsnfsj23 
+Ted => Tallulah 
+Masters => Smith 
+44 North Hampton St => 123 Water St 
+2014-05-07T17:31:20+00:00 => 2014-05-07T17:33:20+00:00 
